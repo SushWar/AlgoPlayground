@@ -4,6 +4,7 @@ subsets
  (the power set).
 
 The solution set must not contain duplicate subsets. Return the solution in any order.
+a little change 
 */
 #include<bits/stdc++.h>
 using namespace std;
